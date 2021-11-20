@@ -6,10 +6,10 @@
   "details": {
     "intro": {
       "text": "intro.md"
-    }
+    },
     "finish": {
       "text": "finish.md"
-    }
+    },
     "steps": [
       {
         "title": "Step 1",
